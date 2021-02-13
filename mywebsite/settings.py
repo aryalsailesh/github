@@ -164,8 +164,8 @@ LOGIN_REDIRECT_URL = '/'
 LOGOUT_URL = 'logout'
 LOGOUT_REDIRECT_URL = '/'
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '427933295570-dtp45vo7754olcpsi4ch3isecb3i3589.apps.googleusercontent.com' # Google Consumer Key
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'v-fTY_59rPA2sq1firLrcf9q' # Google Consumer Secret
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'xxxxxxxxxxx' # Google Consumer Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'xxxxxxxxxx' # Google Consumer Secret
 
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
